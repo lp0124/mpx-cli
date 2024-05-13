@@ -1,4 +1,15 @@
 
+## 2.1.9 (2024-05-13)
+
+#### :bug: Bug Fix
+* `vue-cli-plugin-mpx`
+  * [#88](https://github.com/mpx-ecology/mpx-cli/pull/88) fix: css extract 设置为false的时候报错 ([@mater1996](https://github.com/mater1996))
+
+#### Committers: 1
+- Mater ([@mater1996](https://github.com/mater1996))
+
+
+
 ## 2.1.8 (2024-03-01)
 
 #### :bug: Bug Fix
