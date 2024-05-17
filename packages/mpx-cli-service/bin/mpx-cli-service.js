@@ -98,5 +98,8 @@ if (targets.length === 1) {
         logUpdate.render(chunks.join('\n\n'))
       }
     })
+    ls.on('exit', (exitCode) => {
+      if (exitCode !== 0) process.exitCode = exitCode
+    })
   })
 }
