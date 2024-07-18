@@ -1,6 +1,6 @@
 {
   "name": "@mpxjs/cli-shared-utils",
-  "version": "2.1.12",
+  "version": "2.1.13",
   "description": "share utils for mpx-cli",
   "main": "lib/index.js",
   "dependencies": {
