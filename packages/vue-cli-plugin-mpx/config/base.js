@@ -473,7 +473,7 @@ module.exports.addBaseConfig = function (api, options, config, target) {
     }
   ])
 
-  config.devtool(process.env.NODE_ENV === 'production' ? false : 'source-map')
+  config.devtool(process.env.NODE_ENV === 'production' && !options.productionSourceMap ? false : 'source-map')
 
   if (isWeb) {
     // web版本在vue-cli内置的配置基础上进行调整
