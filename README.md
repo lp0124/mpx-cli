@@ -248,7 +248,7 @@ npm install -D pug pug-plain-loader
 | lintOnSave                 | yes  | yes     | -                                                             |
 | runtimeCompiler            | yes | no     | -                                                             |
 | transpileDependencies      | yes | yes    | -                                                             |
-| productionSourceMap        | yes | no     | 未来会支持                                                    |
+| productionSourceMap        | yes | yes    |                                                   |
 | crossorigin                | yes | no     | -                                                             |
 | integrity                  | yes | no     | -                                                             |
 | configureWebpack           | yes | yes    | -                                                             |
