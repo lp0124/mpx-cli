@@ -13,7 +13,7 @@
     "eslint-webpack-plugin": "^3.1.1"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org",
+    "registry": "https://hub.qimai.shop/repository/npm-group",
     "access": "public"
   }
 }

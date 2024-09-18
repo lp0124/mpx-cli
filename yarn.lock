@@ -2835,7 +2835,7 @@
 
 "@mpxjs/api-proxy@^2.9.0":
   version "2.9.0"
-  resolved "https://registry.npmjs.org/@mpxjs/api-proxy/-/api-proxy-2.9.0.tgz#9321cab072e0690a06b073e792c1ec5f96dbeb1e"
+  resolved "https://hub.qimai.shop/repository/npm-group/@mpxjs/api-proxy/-/api-proxy-2.9.0.tgz#9321cab072e0690a06b073e792c1ec5f96dbeb1e"
   integrity sha512-CFm9hahDAac99rUBkz/eKIGzanVHF8PqSFYIosT+A6URKqJkr2ykg3HegH7wq10u+ULGXqncS52PJ4Rwm5D+Hw==
   dependencies:
     axios "^0.21.1"
@@ -2847,7 +2847,7 @@
 
 "@mpxjs/core@^2.9.0":
   version "2.9.0"
-  resolved "https://registry.npmjs.org/@mpxjs/core/-/core-2.9.0.tgz#8de0ebdcfa48d9f9723d6c656f49f5d7f0bbd614"
+  resolved "https://hub.qimai.shop/repository/npm-group/@mpxjs/core/-/core-2.9.0.tgz#8de0ebdcfa48d9f9723d6c656f49f5d7f0bbd614"
   integrity sha512-iQ3zkCpN97hDXcAQ6NkWHKRThmh3YfLtnf+AN7M0dKt2OnmYwALDVAWDmUTumAo87IROQIW07V1t9nYfE45eYg==
   dependencies:
     "@mpxjs/utils" "^2.9.0"
@@ -2883,7 +2883,7 @@
 
 "@mpxjs/fetch@^2.9.0":
   version "2.9.0"
-  resolved "https://registry.npmjs.org/@mpxjs/fetch/-/fetch-2.9.0.tgz#b45c65b0f97db883a1376926e370468b2c7e6896"
+  resolved "https://hub.qimai.shop/repository/npm-group/@mpxjs/fetch/-/fetch-2.9.0.tgz#b45c65b0f97db883a1376926e370468b2c7e6896"
   integrity sha512-1GLLGmNp0PHp+PX4rrcs6wPllyYj03MWQm0yFpQ+Ql5yo87e0EjOShH8AMoVEkhoM8dWNxsuktK6A20yFHvYng==
   dependencies:
     path-to-regexp "^6.2.0"
@@ -2909,7 +2909,7 @@
 
 "@mpxjs/pinia@^2.9.0":
   version "2.9.0"
-  resolved "https://registry.npmjs.org/@mpxjs/pinia/-/pinia-2.9.0.tgz#a99db7f3854c3660d431527f0e46ebdfeb93e1de"
+  resolved "https://hub.qimai.shop/repository/npm-group/@mpxjs/pinia/-/pinia-2.9.0.tgz#a99db7f3854c3660d431527f0e46ebdfeb93e1de"
   integrity sha512-NdmS4AZX+JnTVJrgvVjuRC1IEvdVcqMJOp9q8W4hlJFsT1kdb55+eFG6qAAJ0Y6tPWjHANTRQqJDQHKPcfyxSw==
   dependencies:
     "@mpxjs/utils" "^2.9.0"
@@ -2927,19 +2927,19 @@
 
 "@mpxjs/store@^2.9.0":
   version "2.9.0"
-  resolved "https://registry.npmjs.org/@mpxjs/store/-/store-2.9.0.tgz#807608f6e349b5417eb496d35806070f2481529f"
+  resolved "https://hub.qimai.shop/repository/npm-group/@mpxjs/store/-/store-2.9.0.tgz#807608f6e349b5417eb496d35806070f2481529f"
   integrity sha512-sFRT6Z9ma/V4L28kFgvRu3wu4b4Q8xnNlLFciA1WUzxHK2zEcrexL8eWeaf+aLun2+DFc481OcGwTUajDA8b+Q==
   dependencies:
     "@mpxjs/utils" "^2.9.0"
 
 "@mpxjs/utils@^2.9.0":
   version "2.9.0"
-  resolved "https://registry.npmjs.org/@mpxjs/utils/-/utils-2.9.0.tgz#5d03927e57e308625430fa813fbd03b5ed7e07c9"
+  resolved "https://hub.qimai.shop/repository/npm-group/@mpxjs/utils/-/utils-2.9.0.tgz#5d03927e57e308625430fa813fbd03b5ed7e07c9"
   integrity sha512-6yH52Tuz8S65hXSd3Qm+/jeojqpUfH3Tat5d1+mnUEQzx01z03QsjzdzbkAJKc8aUlj/jG/2MFp2AQhQP+wNFg==
 
 "@mpxjs/webpack-plugin@^2.9.0":
   version "2.9.0"
-  resolved "https://registry.npmjs.org/@mpxjs/webpack-plugin/-/webpack-plugin-2.9.0.tgz#343d7453f8280d99579e49bced09ade5a8949629"
+  resolved "https://hub.qimai.shop/repository/npm-group/@mpxjs/webpack-plugin/-/webpack-plugin-2.9.0.tgz#343d7453f8280d99579e49bced09ade5a8949629"
   integrity sha512-9pkY7VF87fjYwD+YiFHWAo8+3+w4tD2eN5/sxEzHNq78kpXCjaSgsiu2ms0Al3V0lqR/wrUjaNF1cSilbCzHXQ==
   dependencies:
     "@babel/code-frame" "^7.16.0"
@@ -13355,7 +13355,7 @@ postcss-convert-values@^5.1.3:
 
 postcss-css-variables@^0.19.0:
   version "0.19.0"
-  resolved "https://registry.npmjs.org/postcss-css-variables/-/postcss-css-variables-0.19.0.tgz#7485b1acd8c63cb2ed035ad888996e317db204cf"
+  resolved "https://hub.qimai.shop/repository/npm-group/postcss-css-variables/-/postcss-css-variables-0.19.0.tgz#7485b1acd8c63cb2ed035ad888996e317db204cf"
   integrity sha512-Hr0WEYKLK9VCrY15anHXOd4RCvJy/xRvCnWdplGBeLInwEj6Z14hgzTb2W/39dYTCnS8hnHUfU4/F1zxX0IZuQ==
   dependencies:
     balanced-match "^1.0.0"
